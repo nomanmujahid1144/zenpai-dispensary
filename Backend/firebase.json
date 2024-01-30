@@ -1,0 +1,26 @@
+{
+  "type": "service_account",
+  "project_id": "cannabis-delivery",
+  "private_key_id": "6ed005e70e3637a263154ea805cdb1763621214f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0wZe8XSAxmsZE\ng0QG1SSNb0VwFQ/5LrAtjan7jPdHfCNzxVE3R6P9gOIglftMbN34f12S2es1jWkV\nEZ2n2ivf4zgHwROQjlvfCluQLk6VM0hUYzBnpsQF5+O+M2/PIZXEJl4IlguypSd5\nrsDBE/HzV3HpU93O8L4epA5uMXFVl+FgErr3ettoUk/MPLFjlTo7R8QaWlvvwb0H\nWpc/NriR5+GQfdch8A1aK9F7pcCN2SHjtJRct5jpdga2K7g9WkXXezAfJBU4FqMm\nAQUSnczK3ZAG8tea/VG+9UO2fDN74itpZQkcz+kfcwt/qooPxsCmDvraK2uLH8fS\n7ktdeCMNAgMBAAECggEADCvhCMkIiu6OHTztjrw5euCcP2Dbs37GVDru0EZ8vC6K\nwJfv0RYc38wW7fTLeCj4hWwmI+ZSpUeBZO7Lu+q/+5J0Smlg5OIBI7Kx2bKUjg1m\n+G+5abFcD72+oycZh0wOpqeiu1dHMF9YmiP/TMEIEMe5numLzQx+8NdBNYBUzluP\noFmne4wj08rknABonRZ465zgHagwzKYGPXdtU/PTmbMr2nxqHhudLZuABw7XJSqF\nMDfdZfNmjQy5Wdiu8sFIwHEUMBFWc3oUAZgibbCtgoTtq+W6KEzd+1bLRLa1mhyb\nA2WoyXEibphwHDVxQFsu+TwmtMM4r9tqwL1k0DrUrQKBgQDyFqUauHuHy0/pebwx\n49VfQDbVcOt2XWzW/WJ2TIUeBhqB+GONzVkMIJlVb4IuCpVrAdneuTiX8yTSdl1z\nKnbzpdlJLCcBrNC2PAtcRXK4JafsdgXhDgdudxKkAaVD9CuFDCNPl3vjc8/IivID\nP/GW289uNPvVwwzo/fDD78s2/wKBgQC/JLD8Wt1AtLGgOQjJbvq8ScxSWdM6cz+O\npZKQeuStxmfwaHXobDc2hgxxkrsVcSBsaXrIVCZG1q+BfGy1TGu7cNDLyrLor2II\nUFb/4qBABpVnL/eTaMK0zXAxKsasp4yVxe0xXU46ecGeOhG4TnG22NwQn7yyyD3g\n+CLbCxQR8wKBgFZWhymhc8T5WJWu6dRtKfLfhu7WZ9N9/EwscAo6vhr4GEoUGQVA\noCp4EddrfmUHN0TDkz0gl7Nxbsd0mV1yXpwEoRq8mWi6hnEHtxGAXyqXm2z0pqIe\nC750zvwY7iTvFvpLWuiO4Qs8iXU/QJKyImooGLF4SfxxpNAPiOeIRNRnAoGAGmXb\n145I/jW2TlVyJDeigzyB7mGfbXQbM/0j57ZBPMqo8ifLGOVRHsOWllzYX5a3DqHm\npiIRAzmFFZH0hXlfa4yiGXMOEFqgZFuMGFzZGt6N5alXPNF8CnJQ60loFNIy9UBX\niLjFJAhKuCp25ghXZhQ/GECnU92Zxice0TePdwcCgYEA6wxLuFR1euyWlRkk3/3w\nY5cQCyB4J3yiNcGLmRAkNBcZzkfQcajCI4DFydwGmulbWOGg/R1LhfEB2/tgEe46\nMjwSeCKCAcj+cB8qsxBhnfhOQNy7uOTwhsB4m9/L1eSS6j604xEyGnhI40IdYJMA\nThliRN5TIpHQAb/pacAsQZk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-kukrn@cannabis-delivery.iam.gserviceaccount.com",
+  "client_id": "101451373743706670090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-kukrn%40cannabis-delivery.iam.gserviceaccount.com",
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
